@@ -34,7 +34,7 @@ Follow this tutorial's 👉 [Express Series](https://medium.com/jungletronics/ba
 
 1#ExpressSeries -  Building a Backend with Express.js — [Part 1](https://medium.com/jungletronics/backend-with-express-js-framework-3ea4b49f2610)
 
-2#ExpressSeries - Backend With Express.js Middleware — [Part 2](#TODO)
+2#ExpressSeries - Backend With Express.js Middleware — [Part 2](https://medium.com/jungletronics/backend-with-express-js-middleware-eeb56bf63aff)
     
 ## License
 
